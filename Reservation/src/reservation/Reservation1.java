@@ -11,7 +11,7 @@ public class Reservation1 {
     public static int nons[] = new int[5];
 
     public static void main(String args[]) {
-        String output = "Enter 1 for smoking" + "Enter 2 for nonsEnter 3 for seats info" + "Enter 4 for Exit";
+        String output = "Enter 1 for Smoking" + "Enter 2 for Non Smoking Enter 3 for seats info" + "Enter 4 for Exit";
         JOptionPane.showMessageDialog(null, output, "Reservation System", JOptionPane.INFORMATION_MESSAGE);
         String ch = JOptionPane.showInputDialog("Enter a choice");
         int choice = Integer.parseInt(ch);
@@ -88,11 +88,3 @@ public class Reservation1 {
     }
 
 }
-
-/*
-Title	Reservation (Mini Project)
-Author	Mubasher Afzal
-Author Email	mubasherafzal [at] yahoo.com
-Description	The reservation system code which register a passenger for differenct categories. this will also tells the current status of seats.
-littel programe but can be helpful in developing big applications
-*/
