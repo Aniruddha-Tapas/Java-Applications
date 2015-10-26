@@ -24,11 +24,3 @@ class DemonstrateFile {
     }
 }
 
-/*
-Title demonstrate file
-Author	SUDHA SHARMA
-Author Email	sudha.sharma [at] ldssindia.com
-Description	A File object is used to obtain or manipulate information associated with a disk file such as 
-permissions ,time,date and directory path and to navigate subdirectory hierachies. File class in 
-present in io package
-*/
