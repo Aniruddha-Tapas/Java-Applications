@@ -141,8 +141,4 @@ class FundsInsufficientException extends Exception {
         }
 }
 
-/*
-Title	Bank Account Simulation (Mini Project)
-Author	chethan M gowda
-Author Email	chethan842003 [at] yahoo.com
-Description	This project helps in maintaining and accesing the bank accounts*/
+/*Description	This project helps in maintaining and accesing the bank accounts*/
