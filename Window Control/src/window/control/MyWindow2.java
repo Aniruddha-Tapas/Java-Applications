@@ -44,10 +44,3 @@ else
 return false;
 }
 }
-
-/*
-Title	Window control in Java
-Author	Mannu Kumar Pandey
-Author Email	mannu96 [at] rediffmail.com
-Description	Here window will open as a result of executing program.This program gives a lot of detals of frame,panel etc in java
-*/
