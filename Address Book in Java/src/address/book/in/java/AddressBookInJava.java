@@ -833,12 +833,3 @@ class OperationHandler implements ListSelectionListener,
 
 }
 
-/*
- Title	Address Book in Java
- Author	Rahul Chouhan
- Author Email	rahulchouhan4u_1985 [at] yahoo.com
- Description	easy to keep records
- first create a directory named data which should be in Bin folder of 
- jdk
- and in that create a file
- */
