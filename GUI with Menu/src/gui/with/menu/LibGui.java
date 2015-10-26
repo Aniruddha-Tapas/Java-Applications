@@ -119,8 +119,3 @@ public class LibGui extends JFrame {
         LibGui lg = new LibGui();
     }
 }
-
-/*Title	GUI with menu
-Author	aseem
-Author Email	aseemshrestha [at] hotmail.com
-Description	Design of simple GUI with menu itemsCode :*/
