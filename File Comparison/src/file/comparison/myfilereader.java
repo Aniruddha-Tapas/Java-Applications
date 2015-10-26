@@ -78,11 +78,4 @@ public class myfilereader
  }
 }
 
-/*
-Title	File comparison program
-Author	Dilli Babu
-Author Email	i_am_dil6 [at] yahoo.co.in,dillibabu.c [at] gmail.com
-Description	The program will prompt for 2 file names(.txt) that are to be compared. Given the file names, this program will compare the two files.
-If any difference is there, it will print the differences and no. of differences in command prompt. If no difference is there, it will print
-"files are equal".
-*/
+
