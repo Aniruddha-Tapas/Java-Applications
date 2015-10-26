@@ -1,9 +1,3 @@
-/*
-Title	sun Steganography
-Author	B.Rajavel
-Author Email	rajavel2005 [at] sify.com
-Description	simple Steganography progra
-*/
 
 package sun.steganography;
 
