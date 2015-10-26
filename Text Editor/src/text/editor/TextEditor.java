@@ -352,9 +352,3 @@ public class TextEditor extends JFrame implements ActionListener {
     }
 }
 
-/*
-Title	Text Editor
-Author	Sudha.P
-Author Email	sudha83_cse [at] yahoo.co.in
-Description	It will create a new text editor like the notepad
-*/
