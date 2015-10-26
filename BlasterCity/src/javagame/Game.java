@@ -22,6 +22,8 @@ public class Game extends StateBasedGame{  //extends StateBasedGame to make a St
 		this.getState(menu).init(gc, this);
 		this.getState(play).init(gc, this); //initialized two states
 		this.enterState(menu); //which is the first screen to be shown(launcher)
+	
+		
 	}
 	
 	
