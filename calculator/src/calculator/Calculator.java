@@ -505,10 +505,3 @@ public class Calculator extends JFrame implements ActionListener {
         n.setVisible(true);
     }
 }
-/*
-Title	Calculator with both Standard and Scientific Mode
-Author	K.Ramesh
-Author Email	ramesh_cdm [at] hotmail.com
-Description	This is calculator program. You can select either
-standard or scientific mode.
-*/
