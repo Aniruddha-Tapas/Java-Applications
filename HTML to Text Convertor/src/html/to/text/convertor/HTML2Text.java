@@ -281,8 +281,3 @@ isTag(t,"/h3") ||isTag(t,"/h4") || isTag(t,"/h5") || isTag(t,"/h6") || isTag(t,"
 		}
 	}
 }
-
-Title	HTML to Text Converter.
-Author	Omindra Kumar Rana
-Author Email	rana_omindra [at] yahoo.co.in
-Description	This utility convert HTML code to text code.
