@@ -231,9 +231,5 @@ class ReadVal {
     }
 }
 
-/*
- Title	copying a file
- Author	Shameek Ray
- Author Email	shameek.ray [at] rediffmail.com
- Description	this code lets one to copy one file into another with options like appending to a file or overwriting a file or creating a new file
+/*Description	this code lets one to copy one file into another with options like appending to a file or overwriting a file or creating a new file
  */
