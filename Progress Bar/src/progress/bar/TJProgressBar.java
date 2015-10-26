@@ -126,11 +126,3 @@ public class TJProgressBar extends JApplet {
         }
     }
 }
-/*
-Title	JProgressbar -- Sum of 'n' Numbers
-Author	Arun Kumar Jain
-Author Email	akj_is [at] yahoo.com
-Description	A demonstration of JProgress bar which
-computes and shows the progress of
-Sum of 'n' numbers.
-*/
