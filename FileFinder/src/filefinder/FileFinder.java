@@ -84,10 +84,3 @@ if (Flag==1)
 System.out.println("File "+FileName+" Does not Exists");
 }
 }
-
-/*
-Title	FileFinder Iterative Code.
-Author	Saqlain Abbas
-Author Email	Saqlain_Pucit [at] Yahoo.com
-Description	This Code Can Find a file Located any where in you computer(Hard Drive).
-*/
