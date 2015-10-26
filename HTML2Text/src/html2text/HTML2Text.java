@@ -269,8 +269,4 @@ public class HTML2Text
 }
 
 
-/*
-Title	diffrent method of converting web page(html2text)
-Author	Rockey_Mandy
-Author Email	pande_mandar [at] rediffmail.com
-Description	This project helps to have text of any web page like A to Z Amazon to Google to Yahoo any one.*/
+
