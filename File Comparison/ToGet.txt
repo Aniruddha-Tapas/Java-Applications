@@ -1,0 +1,27 @@
+The New Boston:
+Android App Development Beginners
+Java Applet Game Development.
+iphone Development.
+Java Game Development with Slick.
+JQuery
+Node.js for Beginners
+Node.js Real Time Chat
+Pygame (Python Game Development)
+Python 3 (new)
+iOS Development with Swift.
+
+Links from where Videos are to be downloaded:
+
+MIT Maths for CS -
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm
+
+Intro to Logic - 
+https://www.coursera.org/course/intrologic
+
+UX Design for Mobile Developers - 
+https://www.udacity.com/course/ud849
+
+Compilers - 
+https://www.coursera.org/course/compilers
+
+
